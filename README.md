@@ -14,6 +14,6 @@ Project features:
 8. Location & contact no. of blood banks & donors will be present for emergency cases
 9. A safety button will be in this app to inform the closest person that pregnant mothers are in complicated situation by calling that persons whose numbers will be added by the mothers in the first place
 
-More fetures can be added later.
+More development is needed here.
 
 Thank you.
