@@ -1,6 +1,6 @@
 # Pregnancy_HealthCare_System
 
-It's a Java based Android application, developed using Android Studio IDE.
+Welcome to Pregnancy_HealthCare_System. It's a Java based Android application, developed using Android Studio IDE.
 
 Project features:
 
